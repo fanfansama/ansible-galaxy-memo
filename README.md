@@ -1,5 +1,5 @@
 
-# on initialise un role vide depuis le dossier roles
+# on initialise un role vide
 ansible-galaxy init common
 
 cd common & ls -R
